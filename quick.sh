@@ -1,3 +1,3 @@
 #!/bin/sh
 echo "Success!"
-echo "I am an artifact!" >> artifact
+echo "I am an artifact!" >> artifact.txt
